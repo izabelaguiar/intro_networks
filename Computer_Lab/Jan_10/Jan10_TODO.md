@@ -1,9 +1,9 @@
 # January 10, Computer Lab 
 
 ## tl;dr: 
-* [Take today's quiz](https://forms.gle/zJcXShUAk1ffSwht8)
+* Take today's quiz
 * Make a GitHub Account
-* Star the `midd_networks` repository using your GitHub account
+* Star the `intro_networks` repository using your GitHub account
 * Create a repository titled `math-1010-lastname` 
 * Change security settings to add `izabelaguiar` as a collaborator
 * Make a `README.md` file in your repository
