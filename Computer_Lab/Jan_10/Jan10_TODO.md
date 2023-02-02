@@ -18,7 +18,7 @@ If you already have a GitHub, skip to step 2.
 Click "Sign Up"
 <img width="700" alt="gh_signup" src="https://user-images.githubusercontent.com/29659966/211443608-7f08b499-2fb3-46f7-96bd-5917a7f1228e.png">
 
-Enter your middlebury email, your password, and a userid (whatever user id you'd like!)
+Enter your email, your password, and a userid (whatever user id you'd like!)
 <img width="700" alt="username" src="https://user-images.githubusercontent.com/29659966/211443676-8b4c251f-f4a0-437c-979e-e9f77ec5be67.png">
 
 You can either click "Skip personalization", or continue on the personalization path.
@@ -26,8 +26,8 @@ You can either click "Skip personalization", or continue on the personalization 
 
 
 ### 2. "Watch" our class repo
-Search for the `izabelaguiar/midd_networks` repository and click "watch". Select the types of notifications you'd like to receive. 
-<img width="700" alt="watch_midd_networks" src="https://user-images.githubusercontent.com/29659966/211444011-11b80d8c-c656-4dd4-9910-529e7698166a.png">
+Search for the `izabelaguiar/intro_networks` repository and click "watch". Select the types of notifications you'd like to receive. 
+<img width="700" alt="watch_midd=_networks" src="https://user-images.githubusercontent.com/29659966/211444011-11b80d8c-c656-4dd4-9910-529e7698166a.png">
 
 
 ### 3. Create a GitHub repository
